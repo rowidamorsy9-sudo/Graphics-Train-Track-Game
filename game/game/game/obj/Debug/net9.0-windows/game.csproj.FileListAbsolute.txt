@@ -1,0 +1,16 @@
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.Circle.resources
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.csproj.GenerateResource.cache
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.AssemblyInfoInputs.cache
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.AssemblyInfo.cs
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.csproj.CoreCompileInputs.cache
+C:\Users\shero\source\repos\game\game\bin\Debug\net9.0-windows\game.exe
+C:\Users\shero\source\repos\game\game\bin\Debug\net9.0-windows\game.deps.json
+C:\Users\shero\source\repos\game\game\bin\Debug\net9.0-windows\game.runtimeconfig.json
+C:\Users\shero\source\repos\game\game\bin\Debug\net9.0-windows\game.dll
+C:\Users\shero\source\repos\game\game\bin\Debug\net9.0-windows\game.pdb
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.dll
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\refint\game.dll
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.pdb
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\game.genruntimeconfig.cache
+C:\Users\shero\source\repos\game\game\obj\Debug\net9.0-windows\ref\game.dll
